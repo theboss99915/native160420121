@@ -8,7 +8,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         //test
-
+        //ini branch
         //ayo jerr lemot banget
         //ini udah ejremy
     }
