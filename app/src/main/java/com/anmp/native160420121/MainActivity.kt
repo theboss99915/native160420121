@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
 
         //ayo jerr lemot banget
         //ini udah ejremy
+        //test
     }
 }
