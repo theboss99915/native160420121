@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         //test
         // ini veli :D asdf
         //ayo jerr lemot banget
+        //YOI BRO WES MARI REKS
     }
 }
